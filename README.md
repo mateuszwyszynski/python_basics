@@ -15,3 +15,26 @@ Na początek zapoznaj się z narzędziami, z których będziemy korzystać podcz
 Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Google Colaboratory. Nie musisz nic instalować na swoim komputerze - wszystko będziesz mógł zrobić w tej samej przeglądarce, przez którą oglądasz tę stronę :) Poniżej możesz zobaczyć pierwszy notebook - przeprowadzi Cię on przez najważniejsze opcje notebooków i colab. Najedź teraz kursorem na przycisk poniżej, kliknij prawym klawiszem i otwórz pierwszego notebooka w nowej karcie!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_1/colab_notebooks.ipynb)
+
+### Gradescope i ocena Twojej pracy
+
+Jeśli jesteś oficjalnie zapisany do kursu, to zostało Ci przypisane konto na platformie Gradescope, na której będzie oceniana Twoja praca:
+
+https://www.gradescope.com
+
+Jeśli natomiast jesteś jedynie wolnym słuchaczem, możesz pominąć ten podrozdział.
+
+#### Logowanie
+
+Informacje na temat logowania do Gradescope otrzymałeś przez MS Teams lub inne źródło komunikacji z zapisanymi uczestnikami kursu. Upewnij się, że potrafisz się zalogować do Gradescope! Jest to bardzo ważne, ponieważ w przeciwnym wypadku Twoja praca podczas kursu nie zostanie oceniona.
+
+#### Prace domowe
+
+Na koniec każdego tygodnia będziesz miał do zrobienia pracę domową - tzn. będziesz musiał przygotować jeden notebook ze swoimi fragmentami kodu, a następnie wgrać go do Gradescope. Twoja praca domowa zostanie automatycznie sprawdzona. Zazwyczaj wynik pojawi się w ciągu kilku minut, czasem nawet sekund! Nie bój się wgrywać swojej pracy domowej - do zamknięcia deadline'u możesz oddawać pracę domową tyle razy, ile chcesz. Na koniec liczy się jedynie wynik ostatniej wgranej pracy domowej. Jest to jednak miecz obusieczny - jeśli nie wgrasz pracy domowej przed deadline'm, to nie masz już szans na oddanie pracy domowej i zdobycie tych punktów.
+
+#### Projekt
+
+W trakcie kursu będziesz musiał też przygotować jeden projekt grupowy. Projekt również oddajesz poprzez platformę Gradescope. Część projektu zostanie sprawdzona automatycznie - tak, jak prace domowe. Musisz zaliczyć całą część sprawdzaną automatycznie, żeby móc podejść do prezentacji projektu. Prezentacja projektu będzie już odbywać się na żywo i będzie oceniana indywidualnie przez prowadzących.
+
+#### Oddawanie prac do Gradescope
+Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując notebook, który przygotowałeś w poprzednim podrozdziale. 
