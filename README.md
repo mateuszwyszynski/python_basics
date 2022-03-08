@@ -2,7 +2,7 @@
 
 Witaj na kursie _Data Science w biznesie - Python, podstawy programowania_! Na początek zachęcam Cię do obejrzenia filmu powitalnego:
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=xX22mAIX434&list=PL9aqlRevPSRB3IkipqTGMQ1Bh58dc4HKa)
+[Programowanie i Python - co to jest i po co się tego uczyć?](https://www.youtube.com/watch?v=6g8kpiiDHro&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=4)
 
 Wszystkie materiały do kursu znajdziesz na tej stronie. Materiał z kursu został podzielony na 12 tygodni. Możesz jednak przerabiać go w dowolnym dogodnym dla siebie tempie :) Jedyne, czego musisz pilnować, to deadline'y dla prac domowych i projektów.
 
