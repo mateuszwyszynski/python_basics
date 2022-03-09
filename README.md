@@ -6,7 +6,7 @@ Witaj na kursie _Data Science w biznesie - Python, podstawy programowania_! Na p
 
 Wszystkie materiały do kursu znajdziesz na tej stronie. Materiał z kursu został podzielony na 12 tygodni. Możesz jednak przerabiać go w dowolnym dogodnym dla siebie tempie :) Jedyne, czego musisz pilnować, to deadline'y dla prac domowych i projektów.
 
-## Week 1 - Czym jest programowanie i jakich narzędzi będziemy używać?
+## Week 0 - Czym jest programowanie i jakich narzędzi będziemy używać?
 
 Na początek zapoznaj się z narzędziami, z których będziemy korzystać podczas kursu:
 
@@ -39,3 +39,17 @@ W trakcie kursu będziesz musiał też przygotować jeden projekt grupowy. Proje
 
 #### Oddawanie prac do Gradescope
 Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując notebook, który przygotowałeś w poprzednim podrozdziale. 
+
+## Week 1 - Zmienne, wyrażenia i instrukcje
+
+## Week 2 - Instrukcje warunkowe
+
+## Week 3 - Funkcje
+
+## Week 4 - Pętle i iteracje
+
+## Week 5 - Strings
+
+## Week 6 - Pliki
+
+## Week 7 - Listy
