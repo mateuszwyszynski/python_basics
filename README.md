@@ -14,7 +14,7 @@ Na początek zapoznaj się z narzędziami, z których będziemy korzystać podcz
 
 Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Google Colaboratory. Nie musisz nic instalować na swoim komputerze - wszystko będziesz mógł zrobić w tej samej przeglądarce, przez którą oglądasz tę stronę :) Poniżej możesz zobaczyć pierwszy notebook - przeprowadzi Cię on przez najważniejsze opcje notebooków i colab. Najedź teraz kursorem na przycisk poniżej, kliknij prawym klawiszem i otwórz pierwszego notebooka w nowej karcie!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_1/colab_notebooks.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_0/colab_notebooks.ipynb)
 
 ### Gradescope i ocena Twojej pracy
 
@@ -41,11 +41,11 @@ Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując no
 
 ## Week 1 - Pierwsze kroki z programowaniem
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_1/week_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_1/week_1.ipynb)
 
 ## Week 2 - Zmienne, wyrażenia i instrukcje
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_1/week_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_2/week_2.ipynb)
 
 ## Week 3 - Instrukcje warunkowe
 
