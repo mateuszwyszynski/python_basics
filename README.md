@@ -6,7 +6,7 @@ Witaj na kursie _Data Science w biznesie - Python, podstawy programowania_! Na p
 
 Wszystkie materiały do kursu znajdziesz na tej stronie. Materiał z kursu został podzielony na 12 tygodni. Możesz jednak przerabiać go w dowolnym dogodnym dla siebie tempie :) Jedyne, czego musisz pilnować, to deadline'y dla prac domowych i projektów.
 
-## Week 0 - Czym jest programowanie i jakich narzędzi będziemy używać?
+## Week 0 - Jakich narzędzi będziemy używać?
 
 Na początek zapoznaj się z narzędziami, z których będziemy korzystać podczas kursu:
 
@@ -39,7 +39,15 @@ W trakcie kursu będziesz musiał też przygotować jeden projekt grupowy. Proje
 #### Oddawanie prac do Gradescope
 Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując notebook, który przygotowałeś w poprzednim podrozdziale. 
 
+### Kurs i książka Python for Everybody
+
+Znaczna część tego kursu była budowana na podstawie kursu *Python for Everybody* dr Charles'a Severance'a. Darmowa wersja książki jak i darmowy dostęp do kursu (filmy w języku angielskim) można znaleźć na stronie: www.py4e.com.
+
+W tym miejscu chciałem też gorąco podziękować dr Severance'owi za stworzenie tych fenomenalnych materiałów!
+
 ## Week 1 - Pierwsze kroki z programowaniem
+
+Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać programy?* z książki *Python dla Wszystkich*.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_1/week_1.ipynb)
 
