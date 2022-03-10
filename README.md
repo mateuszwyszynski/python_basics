@@ -39,18 +39,22 @@ W trakcie kursu będziesz musiał też przygotować jeden projekt grupowy. Proje
 #### Oddawanie prac do Gradescope
 Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując notebook, który przygotowałeś w poprzednim podrozdziale. 
 
-## Week 1 - Zmienne, wyrażenia i instrukcje
+## Week 1 - Pierwsze kroki z programowaniem
 
-## Week 2 - Instrukcje warunkowe
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_1/week_1.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_3/colab_notebook.ipynb)
+## Week 2 - Zmienne, wyrażenia i instrukcje
 
-## Week 3 - Funkcje
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/master/week_1/week_2.ipynb)
 
-## Week 4 - Pętle i iteracje
+## Week 3 - Instrukcje warunkowe
 
-## Week 5 - Strings
+## Week 4 - Funkcje
 
-## Week 6 - Pliki
+## Week 5 - Pętle i iteracje
 
-## Week 7 - Listy
+## Week 6 - Strings
+
+## Week 7 - Pliki
+
+## Week 8 - Listy
