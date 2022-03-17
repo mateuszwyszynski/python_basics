@@ -18,15 +18,9 @@ Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Goo
 
 ### Gradescope i ocena Twojej pracy
 
-Jeśli jesteś oficjalnie zapisany do kursu, to zostało Ci przypisane konto na platformie Gradescope, na której będzie oceniana Twoja praca:
+Jeśli jesteś jedynie wolnym słuchaczem, możesz pominąć ten podrozdział. Jeśli natomiast jesteś oficjalnie zapisany do kursu, to powinieneś był dostać maila (w języku angielskim) z instruckcjami do zarejestrowania się na platformie Gradescope. Tam będzie oceniana Twoja praca:
 
 https://www.gradescope.com
-
-Jeśli natomiast jesteś jedynie wolnym słuchaczem, możesz pominąć ten podrozdział.
-
-#### Logowanie
-
-Informacje na temat logowania do Gradescope otrzymałeś przez MS Teams lub inne źródło komunikacji z zapisanymi uczestnikami kursu. Upewnij się, że potrafisz się zalogować do Gradescope! Jest to bardzo ważne, ponieważ w przeciwnym wypadku Twoja praca podczas kursu nie zostanie oceniona.
 
 #### Prace domowe
 
@@ -37,7 +31,7 @@ Na koniec każdego tygodnia będziesz miał do zrobienia pracę domową - tzn. b
 W trakcie kursu będziesz musiał też przygotować jeden projekt grupowy. Projekt również oddajesz poprzez platformę Gradescope. Część projektu zostanie sprawdzona automatycznie - tak, jak prace domowe. Musisz zaliczyć całą część sprawdzaną automatycznie, żeby móc podejść do prezentacji projektu. Prezentacja projektu będzie już odbywać się na żywo i będzie oceniana indywidualnie przez prowadzących.
 
 #### Oddawanie prac do Gradescope
-Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując notebook, który przygotowałeś w poprzednim podrozdziale. 
+Przeprowadzimy Cię teraz przez proces oddawania pracy domowej wykorzystując notebook, który przygotowałeś w poprzednim podrozdziale. Niedługo pojawi się tu film opisujący ten proces.
 
 ### Kurs i książka Python for Everybody
 
