@@ -51,6 +51,8 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 
 ## Week 3 - Instrukcje warunkowe
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_3/week_3.ipynb)
+
 ## Week 4 - Funkcje
 
 ## Week 5 - Pętle i iteracje
