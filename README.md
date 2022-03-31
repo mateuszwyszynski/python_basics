@@ -55,6 +55,8 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 
 ## Week 4 - Funkcje
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_4/week_4.ipynb)
+
 ## Week 5 - Pętle i iteracje
 
 ## Week 6 - Strings
