@@ -70,3 +70,7 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 ### Wariancja
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/variance/variance.ipynb)
+
+### Centralne Twierdzenie Graniczne
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/central_limit_theorem/central_limit_theorem.ipynb)
