@@ -59,6 +59,8 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 
 ## Week 5 - Pętle i iteracje
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_5/week_5.ipynb)
+
 ## Week 6 - Strings
 
 ## Week 7 - Pliki
