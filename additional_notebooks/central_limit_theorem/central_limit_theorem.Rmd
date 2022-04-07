@@ -28,14 +28,16 @@ Do zrozumienia statystycznych symulacji nie jest konieczne rozumieć, jak poniż
 ```{python}
 def random_simulator(sim_type, **kwargs):
     if sim_type == 'game':
-        result = kwargs.get('starting_score')
+        score = kwargs.get('starting_score')
         n_throws = kwargs.get('n_throws')
+        game_price = kwargs.get('game_price')
         coin_results = random.choices([0, 1], k = 5)
         for coin_result in coin_results:
             if coin_result == 1:
                 break
             else:
-                result = result*2
+                score = score*2
+        result = score - game_price
     elif sim_type == 'coin_toss':
         result = random.randrange(-1, 2, 2)
     elif sim_type == 'normal':
@@ -61,7 +63,7 @@ def simulation_histogram(sim_type, liczba_gier, left, right, top, bin_width, **k
         ax.set_ylim(bottom = 0, top = top)
         ax.set_xlim(left = left, right = right)
         game_result = random_simulator(sim_type, **kwargs)
-        account_balance += (game_result - cena_gry)
+        account_balance += game_result
         if simulation_results.get(game_result) is None:
             simulation_results[game_result] = 1
         else:
