@@ -63,6 +63,8 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 
 ## Week 6 - Strings
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_6/week_6.ipynb)
+
 ## Week 7 - Pliki
 
 ## Week 8 - Listy
