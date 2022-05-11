@@ -1,4 +1,4 @@
-# Data Science w biznesie - Python, podstawy programowania
+# Podstawy programowania w Pythonie
 
 Witaj na kursie _Data Science w biznesie - Python, podstawy programowania_! Na początek zachęcam Cię do obejrzenia filmu powitalnego:
 
