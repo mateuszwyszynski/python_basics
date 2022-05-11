@@ -1,6 +1,6 @@
 # Podstawy programowania w Pythonie
 
-Witaj na kursie _Data Science w biznesie - Python, podstawy programowania_! Na początek zachęcam Cię do obejrzenia filmu powitalnego:
+Witaj na kursie _Podstawy programowania w Pythonie_! Na początek zachęcam Cię do obejrzenia filmu powitalnego:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tfZXlvJX744" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
