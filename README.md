@@ -71,6 +71,9 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 ## Week 8 - Pliki (Projekt)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_8/week_8.ipynb)
 
+## Week 9 - Listy
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_9/week_9.ipynb)
+
 ## Dodatkowe Notebooki
 
 ### Wariancja
