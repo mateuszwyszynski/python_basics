@@ -74,6 +74,9 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 ## Week 9 - Listy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_9/week_9.ipynb)
 
+## Week 10 - Słowniki
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateuszwyszynski/python_basics/blob/main/week_10.html)
+
 ## Dodatkowe Notebooki
 
 ### Wariancja
