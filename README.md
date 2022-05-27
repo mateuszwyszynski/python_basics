@@ -79,6 +79,9 @@ Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać progr
 
 ## Dodatkowe Notebooki
 
+### Tuple
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/mateuszwyszynski/python_basics/blob/main/additional_notebooks/tuple/tuple.ipynb)
+
 ### Wariancja
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/variance/variance.ipynb)
