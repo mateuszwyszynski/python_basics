@@ -12,7 +12,11 @@ Na początek zapoznaj się z narzędziami, z których będziemy korzystać podcz
 
 ### Jupyter Notebooks oraz Google Colab
 
-Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Google Colaboratory. Nie musisz nic instalować na swoim komputerze - wszystko będziesz mógł zrobić w tej samej przeglądarce, przez którą oglądasz tę stronę :) Poniżej możesz zobaczyć pierwszy notebook - przeprowadzi Cię on przez najważniejsze opcje notebooków i colab. Najedź teraz kursorem na przycisk poniżej, kliknij prawym klawiszem i otwórz pierwszego notebooka w nowej karcie!
+Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Google Colaboratory. Nie musisz nic instalować na swoim komputerze - wszystko będziesz mógł zrobić w tej samej przeglądarce, przez którą oglądasz tę stronę :) Poniżej możesz zobaczyć pierwszy notebook - przeprowadzi Cię on przez najważniejsze opcje notebooków i colab. Jest też przygotowany film, który oprowadzi Cię po tych narzędziach:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DuPBjtPCPX0&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Najedź teraz kursorem na przycisk poniżej, kliknij prawym klawiszem i otwórz pierwszego notebooka w nowej karcie!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_0/colab_notebooks.ipynb)
 
@@ -39,53 +43,82 @@ Znaczna część tego kursu była budowana na podstawie kursu *Python for Everyb
 
 W tym miejscu chciałem też gorąco podziękować dr Severance'owi za stworzenie tych fenomenalnych materiałów!
 
-## Week 1 - Pierwsze kroki z programowaniem
+## Week 1 - Zmienne, wyrażenia i instrukcje
 
-Ten tydzień dotyczy rozdziału *Dlaczego powinieneś nauczyć się pisać programy?* z książki *Python dla Wszystkich*.
+Obejrzyj filmy o zmiennych i stałych, czyli najbardziej podstawowych obiektach w Pythonie, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CoYSKjSbTHk&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_1/week_1.ipynb)
 
-## Week 2 - Zmienne, wyrażenia i instrukcje
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_2/week_2.ipynb)
 
-## Week 3 - Instrukcje warunkowe
+## Week 2 - Funkcje
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_3/week_3.ipynb)
+Obejrzyj filmy o funkcjach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
-## Week 4 - Funkcje
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SzPwXr3X_Hk&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_4/week_4.ipynb)
 
-## Week 5 - Pętle i iteracje
+## Week 3 - Instrukcje warunkowe
+
+Obejrzyj filmy o instrukcjach warunkowych, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=pjNO15H71as&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_3/week_3.ipynb)
+
+## Week 4 - Pętle i iteracje
+
+Obejrzyj filmy o pętlach i iteracjach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=af-6sJAIxXI&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_5/week_5.ipynb)
 
-## Week 6 - Strings
+## Week 5 - Strings
+
+Zapoznaj się z materiałami o stringach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_6/week_6.ipynb)
 
-## Week 7 - Pliki
+## Week 6 - Pliki
+
+Zapoznaj się z materiałami o plikach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_7/week_7.ipynb)
 
-## Week 8 - Pliki (Projekt)
+## Week 7 - Pliki (Projekt)
+
+Dokończ prace nad swoim projektem.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_8/week_8.ipynb)
 
-## Week 9 - Listy
+## Week 8 - Listy
+
+Zapoznaj się z materiałami o listach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_9/week_9.ipynb)
 
-## Week 10 - Słowniki
+## Week 9 - Słowniki
+
+Zapoznaj się z materiałami o słownikach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://mateuszwyszynski.github.io/python_basics/week_10.html)
+
+## Week 10 - Tuple
+
+Zapoznaj się z materiałami o tuplach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/tuple/tuple.ipynb)
 
 ## Dodatkowe Notebooki
 
-### Tuple
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/tuple/tuple.ipynb)
-
-### Wariancja
+## Week 11 - Wariancja
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/variance/variance.ipynb)
 
-### Centralne Twierdzenie Graniczne
+## Week 12 - Centralne Twierdzenie Graniczne
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/additional_notebooks/central_limit_theorem/central_limit_theorem.ipynb)
