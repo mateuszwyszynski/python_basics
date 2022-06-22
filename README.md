@@ -14,7 +14,7 @@ Na początek zapoznaj się z narzędziami, z których będziemy korzystać podcz
 
 Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Google Colaboratory. Nie musisz nic instalować na swoim komputerze - wszystko będziesz mógł zrobić w tej samej przeglądarce, przez którą oglądasz tę stronę :) Poniżej możesz zobaczyć pierwszy notebook - przeprowadzi Cię on przez najważniejsze opcje notebooków i colab. Jest też przygotowany film, który oprowadzi Cię po tych narzędziach:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DuPBjtPCPX0&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DuPBjtPCPX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Najedź teraz kursorem na przycisk poniżej, kliknij prawym klawiszem i otwórz pierwszego notebooka w nowej karcie!
 
@@ -47,7 +47,7 @@ W tym miejscu chciałem też gorąco podziękować dr Severance'owi za stworzeni
 
 Obejrzyj filmy o zmiennych i stałych, czyli najbardziej podstawowych obiektach w Pythonie, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CoYSKjSbTHk&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CoYSKjSbTHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_1/week_1.ipynb)
 
@@ -57,7 +57,7 @@ Obejrzyj filmy o zmiennych i stałych, czyli najbardziej podstawowych obiektach 
 
 Obejrzyj filmy o funkcjach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SzPwXr3X_Hk&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzPwXr3X_Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_4/week_4.ipynb)
 
@@ -65,7 +65,7 @@ Obejrzyj filmy o funkcjach, a następnie rozwiąż zadania programistyczne. Nie 
 
 Obejrzyj filmy o instrukcjach warunkowych, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=pjNO15H71as&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjNO15H71as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_3/week_3.ipynb)
 
@@ -73,7 +73,7 @@ Obejrzyj filmy o instrukcjach warunkowych, a następnie rozwiąż zadania progra
 
 Obejrzyj filmy o pętlach i iteracjach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=af-6sJAIxXI&list=PLPqn2v4HQeWzVnqMfaPOAfar0W1aa6ERp&index=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/af-6sJAIxXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_5/week_5.ipynb)
 
