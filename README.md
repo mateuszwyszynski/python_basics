@@ -49,6 +49,8 @@ Obejrzyj filmy o zmiennych i stałych, czyli najbardziej podstawowych obiektach 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CoYSKjSbTHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Zadania:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_1/week_1.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_2/week_2.ipynb)
@@ -59,6 +61,8 @@ Obejrzyj filmy o funkcjach, a następnie rozwiąż zadania programistyczne. Nie 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzPwXr3X_Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Zadania:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_4/week_4.ipynb)
 
 ## Week 3 - Instrukcje warunkowe
@@ -67,6 +71,8 @@ Obejrzyj filmy o instrukcjach warunkowych, a następnie rozwiąż zadania progra
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjNO15H71as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Zadania:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_3/week_3.ipynb)
 
 ## Week 4 - Pętle i iteracje
@@ -74,6 +80,8 @@ Obejrzyj filmy o instrukcjach warunkowych, a następnie rozwiąż zadania progra
 Obejrzyj filmy o pętlach i iteracjach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/af-6sJAIxXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Zadania:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateuszwyszynski/python_basics/blob/main/week_5/week_5.ipynb)
 
