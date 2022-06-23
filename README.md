@@ -14,7 +14,7 @@ Na początek zapoznaj się z narzędziami, z których będziemy korzystać podcz
 
 Wszystko będziemy programować w tak zwanych __notebookach__ korzystając z Google Colaboratory. Nie musisz nic instalować na swoim komputerze - wszystko będziesz mógł zrobić w tej samej przeglądarce, przez którą oglądasz tę stronę :) Poniżej możesz zobaczyć pierwszy notebook - przeprowadzi Cię on przez najważniejsze opcje notebooków i colab. Jest też przygotowany film, który oprowadzi Cię po tych narzędziach:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DuPBjtPCPX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HFwfl6jnfjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Najedź teraz kursorem na przycisk poniżej, kliknij prawym klawiszem i otwórz pierwszego notebooka w nowej karcie!
 
@@ -47,11 +47,11 @@ W tym miejscu chciałem też gorąco podziękować dr Severance'owi za stworzeni
 
 Obejrzyj filmy o zmiennych i stałych, czyli najbardziej podstawowych obiektach w Pythonie, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CoYSKjSbTHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UjgEb5JaxRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I2cq85lECPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YS_cs2ey8x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3pVaJ6P8pWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvGJG3mNCmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Zadania:
 
@@ -62,8 +62,6 @@ Zadania:
 ## Week 2 - Funkcje
 
 Obejrzyj filmy o funkcjach, a następnie rozwiąż zadania programistyczne. Nie zapomnij oddać rozwiązanych zadań na Gradescope!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SzPwXr3X_Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6FCaRlok2Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
