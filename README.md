@@ -1,10 +1,6 @@
 # Podstawy programowania w Pythonie
 
-Witaj na kursie _Podstawy programowania w Pythonie_! Na początek zachęcam Cię do obejrzenia filmu powitalnego:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tfZXlvJX744" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Wszystkie materiały do kursu znajdziesz na tej stronie. Materiał z kursu został podzielony na 12 tygodni. Możesz jednak przerabiać go w dowolnym dogodnym dla siebie tempie :) Jedyne, czego musisz pilnować, to deadline'y dla prac domowych i projektów.
+Witaj na kursie _Podstawy programowania w Pythonie_! Wszystkie materiały do kursu znajdziesz na tej stronie. Materiał z kursu został podzielony na 12 tygodni. Możesz jednak przerabiać go w dowolnym dogodnym dla siebie tempie :) Jedyne, czego musisz pilnować, to deadline'y dla prac domowych i projektów.
 
 ## Week 0 - Jakich narzędzi będziemy używać?
 
