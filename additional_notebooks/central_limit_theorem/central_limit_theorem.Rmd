@@ -25,6 +25,10 @@ from IPython import display
 
 Do zrozumienia statystycznych symulacji nie jest konieczne rozumieć, jak poniższe funkcje zostały skonstruowane
 
+# This are definitions of functions which we will use
+
+You do not have to understand how they work to understand and run statistical simulations
+
 ```{python}
 def random_simulator(sim_type, **kwargs):
     if sim_type == 'game':
@@ -39,7 +43,7 @@ def random_simulator(sim_type, **kwargs):
                 score = score*2
         result = score - game_price
     elif sim_type == 'coin_toss':
-        result = random.randrange(-1, 2, 2)
+        result = random.randrange(0, 2, 1)
     elif sim_type == 'normal':
         n_digits = kwargs.get('n_digits')
         result = round(random.gauss(0, 1), n_digits)
@@ -47,7 +51,7 @@ def random_simulator(sim_type, **kwargs):
         result = 0
         n_digits = kwargs.get('n_digits')
         n_tosses = kwargs.get('n_tosses')
-        coin_results = random.choices([-1, 1], k = n_tosses)
+        coin_results = random.choices([0, 1], k = n_tosses)
         for coin_result in coin_results:
             result = result + coin_result
     else:
@@ -91,6 +95,10 @@ def simulation_histogram(sim_type, liczba_gier, left, right, top, bin_width, acc
 
 ## Losujemy wielokrotnie zmienną o rozkładzie normalnym
 
+# Normal distribution
+
+## We draw multiple times normal random variable
+
 ```{python}
 simulation_histogram('normal', 1000, -5, 5, 100, 0.08, account_balance_display = False, n_digits = 1)
 ```
@@ -100,17 +108,31 @@ simulation_histogram('normal', 1000, -5, 5, 100, 0.08, account_balance_display =
 Wobraź sobie prostą grę, w której rzucasz 100 razy monetą:
 
  - jeśli wypadł orzeł, wygrywasz 1 PLN
- - jeśli wypadła reszka, tracisz 1 PLN
+ - jeśli wypadła reszka, nic nie wygrywamy
  
-Na koniec patrzysz, ile w sumie zarobiłeś lub straciłeś.
+Na koniec patrzysz, ile w sumie wygrałeś.
 
 Na koniec wyobraź sobie, że coś takiego robi tysiące osób. Zobaczmy, jak będzie się zachowywał rozkład wyników takich wielu gier.
 
+## Central Limit Theorem
+
+Imagine a simple game where you toss a coin 100 times:
+
+ - if it's head, you win 1 USD
+ - it it's tails, you win nothing
+ 
+At the end you sum up what you have won.
+
+Now imagine thousands of people playing this game. We count how many people had different final scores. Let's how it looks.
+
 ```{python}
-simulation_histogram('multiple_coin_tosses', 1000, -50, 50, 100, 0.8, account_balance_display = False, n_digits = 0, n_tosses = 100)
+simulation_histogram('multiple_coin_tosses', 1000, 0, 100, 100, 0.8, account_balance_display = False,
+                     n_digits = 0, n_tosses = 100)
 ```
 
 Wygląda to bardzo podobnie do rozkładu normalnego! Okazuje się, że jest takie twierdzenie - Centralne Twierdzenie Graniczne - które mówi o tym, że tak będzie. Dokładniej mówi ono o tym, że obserwując wielokrotnie taki sam eksperyment i sumując wyniki, nasza suma będzie miała w przybliżeniu rozkład normalny. Im więcej razy powtarzamy eksperyment, tym lepsze przybliżenie. Poniżej wyniki dla 10000 prób.
+
+It looks very similar to normal distribution! It turns out that there is a theorem - Central Limit Theorem - which tells us that it will always be the case. More precisely, it tells us that if we are observing multiple times an identical experiment and we are suming up the results, the sum will have approximately normal distribution. The more experiments we observe and sum, the better the approximation. Below results for 10000 experiments
 
 ```{python}
 liczba_osob = 10000
@@ -137,7 +159,7 @@ for i in range(liczba_osob):
 
 ```{python}
 fig_normal, ax_normal = plt.subplots(figsize=(10, 8))
-hist_normal = ax_normal.bar(list(account_results.keys()), list(account_results.values()), width=1, edgecolor="blue", linewidth=0.7, color = 'blue')
+hist_normal = ax_normal.bar(list(account_results.keys()), list(account_results.values()), width=0.8, edgecolor="blue", linewidth=0.7, color = 'blue')
 display.display(fig_normal)
 plt.close()
 ```
