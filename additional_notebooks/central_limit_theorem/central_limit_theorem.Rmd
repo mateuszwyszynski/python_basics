@@ -43,13 +43,20 @@ def random_simulator(sim_type, **kwargs):
     elif sim_type == 'normal':
         n_digits = kwargs.get('n_digits')
         result = round(random.gauss(0, 1), n_digits)
+    elif sim_type == 'multiple_coin_tosses':
+        result = 0
+        n_digits = kwargs.get('n_digits')
+        n_tosses = kwargs.get('n_tosses')
+        coin_results = random.choices([-1, 1], k = n_tosses)
+        for coin_result in coin_results:
+            result = result + coin_result
     else:
         result = None
     return result
 ```
 
 ```{python}
-def simulation_histogram(sim_type, liczba_gier, left, right, top, bin_width, **kwargs):
+def simulation_histogram(sim_type, liczba_gier, left, right, top, bin_width, account_balance_display = True, **kwargs):
     simulation_results = dict()
 
     figure, ax = plt.subplots(figsize=(10, 8))
@@ -69,8 +76,9 @@ def simulation_histogram(sim_type, liczba_gier, left, right, top, bin_width, **k
         else:
             simulation_results[game_result] += 1
         hist1 = ax.bar(list(simulation_results.keys()), list(simulation_results.values()), width=bin_width, edgecolor="white", linewidth=0.7, color = 'blue')
-        account_balance_text = ax.text(x = min(list(simulation_results.keys())), y = top*0.95, s = 'Account balance: ' + str(account_balance), 
-                 bbox=dict(facecolor='white', alpha=1), fontsize = 'x-large')
+        if account_balance_display:
+          account_balance_text = ax.text(x = min(list(simulation_results.keys())), y = top*0.95, s = 'Account balance: ' + str(account_balance), 
+                  bbox=dict(facecolor='white', alpha=1), fontsize = 'x-large')
         games_n_text = ax.text(x = min(list(simulation_results.keys())), y = top*0.85, s = '# Games: ' + str(i), 
                  bbox=dict(facecolor='white', alpha=1), fontsize = 'x-large')
         display.clear_output(wait=True)
@@ -84,19 +92,25 @@ def simulation_histogram(sim_type, liczba_gier, left, right, top, bin_width, **k
 ## Losujemy wielokrotnie zmienną o rozkładzie normalnym
 
 ```{python}
-simulation_histogram('normal', 1000, -5, 5, 100, 0.08, n_digits = 1)
+simulation_histogram('normal', 1000, -5, 5, 100, 0.08, account_balance_display = False, n_digits = 1)
 ```
 
 ## Centralne Twierdzenie Graniczne
 
-Wobraź sobie prostą grę, w której rzucasz monetą:
+Wobraź sobie prostą grę, w której rzucasz 100 razy monetą:
 
  - jeśli wypadł orzeł, wygrywasz 1 PLN
  - jeśli wypadła reszka, tracisz 1 PLN
  
-Wobraź sobie teraz, że grasz w tę grę wiele razy, np. 100. Twój wynik na koncie będzie sumą wyników z każdego rzutu.
+Na koniec patrzysz, ile w sumie zarobiłeś lub straciłeś.
 
-Na koniec wyobraź sobie, że coś takiego robi tysiące osób, np. 10000. Rozkład Waszych końcowych wyników na koncie będzie w przybliżeniu rozkładem normalnym! Możemy to zobaczyć na poniższej symulacji. 
+Na koniec wyobraź sobie, że coś takiego robi tysiące osób. Zobaczmy, jak będzie się zachowywał rozkład wyników takich wielu gier.
+
+```{python}
+simulation_histogram('multiple_coin_tosses', 1000, -50, 50, 100, 0.8, account_balance_display = False, n_digits = 0, n_tosses = 100)
+```
+
+Wygląda to bardzo podobnie do rozkładu normalnego! Okazuje się, że jest takie twierdzenie - Centralne Twierdzenie Graniczne - które mówi o tym, że tak będzie. Dokładniej mówi ono o tym, że obserwując wielokrotnie taki sam eksperyment i sumując wyniki, nasza suma będzie miała w przybliżeniu rozkład normalny. Im więcej razy powtarzamy eksperyment, tym lepsze przybliżenie. Poniżej wyniki dla 10000 prób.
 
 ```{python}
 liczba_osob = 10000
